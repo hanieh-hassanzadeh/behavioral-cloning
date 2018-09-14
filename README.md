@@ -7,7 +7,7 @@ I used NVIDIA's End-to-End model for self driving cars, as reported [here](https
 The architecture of the model is summarize in the bellow image:
 ![architecture](https://github.com/hanieh-hassanzadeh/behavioral-cloning/blob/master/Images/architecture1.png)
 
-This architecture is define in `create_model.py`. The variables needed to build the model are also included in this file; namely:
+This architecture is defined in `create_model.py`. The variables needed to build the model are also included in this file; namely:
 
 ```
 number_of_epochs = 15
